@@ -1,5 +1,5 @@
 # Email
-A Java project, where you can send an Email
+A Java project, where you can send an Email.
 
 This is a java project, in which you can send an email to someone else. When you run the Main method, 
 a new Content Pane will appear. There you can insert the email of the recipient. If the mail is valid, then a new panel
