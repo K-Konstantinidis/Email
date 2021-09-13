@@ -10,4 +10,4 @@ After you fill everything click the 'Send' button and the mail will be send to t
 1)You must enable signin from less seccure apps in Gmail: https://myaccount.google.com/security
 2)You need to download and include javax.mail.jar
 
-There are also lots of comments in the Mail.Java file, so you can understand and follow along the code!
+For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
