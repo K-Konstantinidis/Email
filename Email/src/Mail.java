@@ -25,7 +25,7 @@ import javax.swing.JTextField;
 
 /* You must enable signin from less seccure apps in 
  Gmail: https://myaccount.google.com/security*/
-//You also need to download and include javax.mail.jar
+//You also need to download and include javax.mail.jar. Here is a link: https://javaee.github.io/javamail/
 
 public class Mail extends JFrame{
 	private static final long serialVersionUID = 1L;
