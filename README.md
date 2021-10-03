@@ -8,6 +8,7 @@ After you fill everything click the 'Send' button and the mail will be send to t
 
 -SOS-
 1)You must enable signin from less seccure apps in Gmail: https://myaccount.google.com/security
-2)You need to download and include javax.mail.jar
+
+2)You need to download and include javax.mail.jar, here is a link: https://javaee.github.io/javamail/
 
 For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
