@@ -6,7 +6,7 @@ This is a java project, in which you can send an email to someone else.
 After running the program, a Content Pane will appear. There you can insert the email of the recipient. If the mail is valid, then a new panel
 will be appear. 
 
-In this panel you will write your Email and Password and after the connection happens, you can type the message of the mail.
+In this panel you will write your Email and yout Password. You will also type the subject and the message of the mail.
 After you fill everything, just click the 'Send' button and the mail will be send to the recipient.
 
 -SOS-
