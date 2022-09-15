@@ -1,17 +1,15 @@
 # Email
-A Java project, where you can send an Email.
+Sending an Email fast and easy! No need to open a browser and connect to your email.
 
-This is a java project, in which you can send an email to someone else. 
+After running the program, a Content Pane will appear. There you can insert the email of the recipient. If the mail is valid, then a new panel will appear. 
 
-After running the program, a Content Pane will appear. There you can insert the email of the recipient. If the mail is valid, then a new panel
-will be appear. 
+In the 2nd panel you will insert your Email & Password. You will also type the subject (not necessary) and the message of the mail.
 
-In this panel you will write your Email and yout Password. You will also type the subject(not necessary) and the message of the mail.
-After you fill everything, just click the 'Send' button and the mail will be send to the recipient.
+After everything is filled, just click the 'Send' button and everything will go according to plan.
 
--SOS-
-1)You must enable signin from less seccure apps in Gmail: https://myaccount.google.com/security
+## -SOS-
+- You **must** enable Sign-in from less seccure apps in your Gmail: https://myaccount.google.com/security
 
-2)You need to download and include javax.mail.jar, here is a link: https://javaee.github.io/javamail/
+- You **must** download & include javax.mail.jar. Here is a <a href="https://javaee.github.io/javamail/">link</a>.
 
-For more information about how the code works, there are lots of comments in the .java files to help you understand everything and follow along with ease!
+For more information about how the code works, you can check the comments in the .java files to help you understand everything and follow along with ease!
